@@ -11,7 +11,7 @@ To build Seeder you need:
     $ java -version
     java version "1.8.0_121"
   </code>
-  </pre>
+</pre>
   <pre>
   <code>
     $ sdk install gradle 6.6.1
