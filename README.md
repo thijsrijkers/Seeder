@@ -6,6 +6,9 @@ To build Seeder you need:
 - A recent version of Intellij
 - Gradle (If needed)
 <h2> Output example</h2>
+<p>
+  This example is made with the variables: "Forest" x:0, y:70. z:0. 
+</p>
 <pre>
   <code>
   133915647   forest
