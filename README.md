@@ -5,6 +5,16 @@ Seeds generator that uses specific biome and coordinates
 To build Seeder you need:
 - A recent version of Intellij
 - Gradle (If needed)
+<h2> Gradle installation</h2>
+<pre>
+  <code>
+    $ java -version
+    java version "1.8.0_121"
+  </code>
+  <code>
+    $ sdk install gradle 6.6.1
+  </code>
+</pre>
 <h2> Output example</h2>
 <p>
   This example is made with the variables: "Forest" x:0, y:70. z:0. 
