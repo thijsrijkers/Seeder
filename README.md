@@ -2,13 +2,12 @@
 Seeds generator that uses specific biome and coordinates
 
 ## Building
-To build Death Smash Bros you need:
+To build Seeder you need:
 - A recent version of Intellij
 - Gradle (If needed)
 <h2> Output example</h2>
 <pre>
   <code>
-  "
   133915647   forest
   869695945   forest
   477851114   forest
@@ -20,7 +19,6 @@ To build Death Smash Bros you need:
   115879444   forest
   268172484   forest
   194869098   forest
-  "
   </code>
 </pre>
 <h2> Sources</h2>
